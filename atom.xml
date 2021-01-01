@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/jamesshou0408/jamesshou0408.github.io</id>
+    <title>寿木南</title>
+    <updated>2021-01-01T16:58:31.760Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/jamesshou0408/jamesshou0408.github.io"/>
+    <link rel="self" href="https://github.com/jamesshou0408/jamesshou0408.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://github.com/jamesshou0408/jamesshou0408.github.io/images/avatar.png</logo>
+    <icon>https://github.com/jamesshou0408/jamesshou0408.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, 寿木南</rights>
+</feed>
